@@ -6,7 +6,7 @@ This microservice integrates Spring Security to manage authentication and author
 enabling user creation, login, and token retrieval. It also supports searching and deleting 
 users by email. Additionally, it provides functionality to create and update addresses and phone numbers.
 
-#### Others microservices for this project:
+#### Other microservices for this project:
 ##### https://github.com/luizfernandorg/notificacao
 ##### https://github.com/luizfernandorg/agendador-tarefas
 ##### https://github.com/luizfernandorg/bff-agendador-tarefas (in production)

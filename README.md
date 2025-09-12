@@ -9,7 +9,7 @@ users by email. Additionally, it provides functionality to create and update add
 #### Other microservices for this project:
 ##### https://github.com/luizfernandorg/notificacao
 ##### https://github.com/luizfernandorg/agendador-tarefas
-##### https://github.com/luizfernandorg/bff-agendador-tarefas (in production)
+##### https://github.com/luizfernandorg/bff-agendador-tarefas BFF (Backend for Frontend)
 
 ## API Documentation
 

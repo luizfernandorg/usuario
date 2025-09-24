@@ -1,7 +1,15 @@
 
 # User Microservice
 
-This project marks the beginning of a suite of four microservices designed to work together. This microservice integrates Spring Security to manage authentication and authorization, enabling user creation, login, and token retrieval. It also supports searching and deleting users by email. Additionally, it provides functionality to create and update addresses and phone numbers.
+This project marks the beginning of a suite of four microservices designed to work together. 
+This microservice integrates Spring Security to manage authentication and authorization, 
+enabling user creation, login, and token retrieval. It also supports searching and deleting 
+users by email. Additionally, it provides functionality to create and update addresses and phone numbers.
+
+#### Other microservices for this project:
+##### https://github.com/luizfernandorg/notificacao
+##### https://github.com/luizfernandorg/agendador-tarefas
+##### https://github.com/luizfernandorg/bff-agendador-tarefas BFF (Backend for Frontend)
 
 ## API Documentation
 
@@ -19,7 +27,7 @@ This project marks the beginning of a suite of four microservices designed to wo
 | enderecos | `list` | user addresses |
 | telefones | `list` | user phone numbers |
 
-#### User addresses fields
+#### User addresses fields 
 
 | Body   | Tipo       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
